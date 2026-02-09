@@ -136,7 +136,3 @@ Here is a sample of the results:
 | `dsjc1000.1.col`    | 1000     | 49629   | ~21-86          | **23**           |
 
 As shown, the algorithm successfully finds the optimal solution for many graphs and produces near-optimal results for others.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
